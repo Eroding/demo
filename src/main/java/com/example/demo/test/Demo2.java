@@ -1,6 +1,6 @@
 package com.example.demo.test;
 
-import cn.hutool.core.bean.BeanUtil;
+import ssh-add ~/.ssh/id_rsacn.hutool.core.bean.BeanUtil;
 import cn.hutool.core.collection.CollUtil;
 import cn.hutool.core.date.DateField;
 import cn.hutool.core.date.DatePattern;
